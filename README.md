@@ -39,6 +39,7 @@ Clone the repository:
 
 Bash
 git clone https://github.com/2dtechbg-mrr/ciscoiseautomat/blob/main/ise_v1.ps1
+
 Edit the Configuration section in the .ps1 script:
 
 PowerShell
