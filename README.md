@@ -49,6 +49,7 @@ Run the script:
 
 PowerShell
 .\Disable-ISEUser.ps1
+
 ⚠️ Security Note
 [!IMPORTANT]
 The current version of the script includes a bypass for SSL certificate validation (TrustAllCertsPolicy). This is intended for lab environments or testing with self-signed certificates. For production environments, it is highly recommended to use trusted CA-signed certificates and remove the SSL bypass block.
