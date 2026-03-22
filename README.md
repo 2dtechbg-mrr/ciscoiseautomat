@@ -38,7 +38,7 @@ The machine running the script must have HTTPS access to the Cisco ISE PAN (Poli
 Clone the repository:
 
 Bash
-git clone https://github.com/your-username/cisco-ise-automation.git
+git clone https://github.com/your-username/cisco-ise-automation.git](https://github.com/2dtechbg-mrr/ciscoiseautomat/blob/main/ise_v1.ps1
 Edit the Configuration section in the .ps1 script:
 
 PowerShell
@@ -68,4 +68,4 @@ Feel free to fork this project, open issues, or submit pull requests for any imp
 
 Author: 2DTECHBG
 
-YouTube Tutorial: [Link to your video here]
+YouTube Tutorial: https://www.youtube.com/watch?v=NeBcMymb5l0
