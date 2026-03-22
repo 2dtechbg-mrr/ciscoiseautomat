@@ -43,7 +43,7 @@ git clone https://github.com/2dtechbg-mrr/ciscoiseautomat/blob/main/ise_v1.ps1
 Edit the Configuration section in the .ps1 script:
 
 PowerShell
-$ISE_IP   = "192.168.1.201"
+$ISE_IP   = "CISCO_ISE_IP"
 $AdminUser = "your_admin_user"
 $AdminPass = "your_password"
 Run the script:
